@@ -92,7 +92,7 @@ object Application extends SquerylController {
         computerForm.bindFromRequest.fold(
             formWithErrors => BadRequest(html.createForm(formWithErrors)),
             computer => {
-                ComputerBase.computers insert computer
+                computer.save
                 Home.flashing("success" -> "Computer %s has been created".format(computer.name))
             }
         )

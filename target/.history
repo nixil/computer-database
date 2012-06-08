@@ -50,3 +50,5 @@ compile
 run
 test
 idea
+run
+clean
