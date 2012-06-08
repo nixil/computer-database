@@ -1,0 +1,33 @@
+[error] Failed: : Total 12, Failed 4, Errors 0, Passed 8, Skipped 0
+[error] Failed tests:
+[error] 	test.IntegrationSpec
+[error] 	test.ApplicationSpec
+java.lang.RuntimeException: Tests unsuccessful
+	at scala.sys.package$.error(package.scala:27)
+	at scala.Predef$.error(Predef.scala:66)
+	at sbt.Tests$.showResults(Tests.scala:168)
+	at sbt.Defaults$$anonfun$testTasks$5.apply(Defaults.scala:279)
+	at sbt.Defaults$$anonfun$testTasks$5.apply(Defaults.scala:279)
+	at sbt.Scoped$$anonfun$hf2$1.apply(Structure.scala:473)
+	at sbt.Scoped$$anonfun$hf2$1.apply(Structure.scala:473)
+	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:41)
+	at sbt.Scoped$Reduced$$anonfun$combine$1$$anonfun$apply$11.apply(Structure.scala:295)
+	at sbt.Scoped$Reduced$$anonfun$combine$1$$anonfun$apply$11.apply(Structure.scala:295)
+	at sbt.$tilde$greater$$anonfun$$u2219$1.apply(TypeFunctions.scala:40)
+	at sbt.std.Transform$$anon$5.work(System.scala:67)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:221)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:221)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:18)
+	at sbt.Execute.work(Execute.scala:227)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:221)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:221)
+	at sbt.CompletionService$$anon$1$$anon$2.call(CompletionService.scala:26)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:441)
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+[error] {file:/I:/play2project/computer-database/}computer-database/test:test: Tests unsuccessful

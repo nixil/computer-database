@@ -1,0 +1,13 @@
+[info] db.InitDataTest
+[info] + db.InitDataTest.printDDL
+[info] + db.InitDataTest.companiesData
+[info] + db.InitDataTest.oneToManyRelation
+[info] + db.InitDataTest.computerData
+[info] + db.InitDataTest.listOrderBy
+[info] + db.InitDataTest.findNotExisted
+[info] + db.InitDataTest.updateComputer
+[info] 
+[info] 
+[info] Total for test db.InitDataTest
+[info] Finished in 2.878 seconds
+[info] 7 tests, 0 failures, 0 errors

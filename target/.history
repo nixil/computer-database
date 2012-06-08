@@ -1,0 +1,52 @@
+help play
+eclipsify
+help eclipsify
+run
+eclipsify with-source=true
+~compile
+run
+test
+run
+help play
+update
+eclipsify
+run
+help play
+help test
+help test-only
+test
+run
+test
+run
+help play
+h2-browser
+run
+compile
+run
+exit
+run
+help play
+clean
+start
+run
+eclipsify
+idea
+compile
+clean
+compile
+clean
+compile
+run
+help play
+h2-browser
+clean
+compile
+run
+compile
+clean
+compile
+clean
+compile
+run
+test
+idea

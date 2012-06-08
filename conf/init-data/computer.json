@@ -1,0 +1,17 @@
+[
+{"id":1,  	"name":"MacBook Pro 15.4 inch ", "companyId":1},
+{"id":2,  	"name":"CM-2a", "companyId":2},
+{"id":3,  	"name":"CM-200", "companyId":2},
+{"id":4,  	"name":"CM-5e", "companyId":2},
+{"id":5,  	"name":"CM-5e", "introduced":"1991-01-01", "companyId":2},
+{"id":6,  	"name":"MacBook Pro", "introduced":"2006-01-10","companyId":1},
+{"id":7,  	"name":"Apple IIe", "companyId":1},
+{"id":8,  	"name":"Apple IIc", "companyId":1},
+{"id":9,  	"name":"Apple IIGS", "companyId":1},
+{"id":10, 	"name":"Apple IIc Plus", "companyId":1},
+{"id":11, 	"name":"Apple II Plus", "companyId":1},
+{"id":12, 	"name":"Apple III", "introduced":"1980-05-01", "discontinued":"1984-04-01","companyId":1},
+{"id":13, 	"name":"Apple Lisa ", "companyId":1},
+{"id":14, 	"name":"CM-2 ", "companyId":2},
+{"id":14, 	"name":"produced by unknown"}
+]
